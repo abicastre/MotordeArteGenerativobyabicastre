@@ -1,0 +1,21 @@
+{
+    "name": "generative-art-engine",
+    "version": "1.0.0",
+    "description": "A simple generative art engine for NFTs",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "generative-art",
+        "NFTs"
+    ],
+    "author": "abicastre",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^8.2.5",
+        "jimp": "^0.16.13",
+        "lodash": "^4.17.21",
+        "uuid": "^9.0.0"
+    }
+}
