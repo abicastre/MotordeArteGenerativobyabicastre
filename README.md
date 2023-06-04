@@ -1,6 +1,6 @@
 ## Generador de Arte Generativo Físico
 
-Este proyecto es un generador de arte generativo físico desarrollado por abicastre. Combina diferentes capas de imágenes para crear una variedad de composiciones artísticas únicas. El generador utiliza imágenes almacenadas en carpetas organizadas y crea combinaciones de capas para generar arte generativo.
+Este proyecto es un generador de arte generativo físico desarrollado por mi, abicastre. Combina diferentes capas de imágenes para crear una variedad de composiciones artísticas únicas. El generador utiliza imágenes almacenadas en carpetas organizadas y crea combinaciones de capas para generar arte generativo.
 
 ### Características principales
 
@@ -52,4 +52,4 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENS
 
 ---
 
-¡Diviértete explorando y generando arte generativo físico con este potente generador! Si tienes alguna pregunta o necesitas ayuda, no dudes en contactar a abicastre. Disfruta.
+¡Diviértete explorando y generando arte generativo físico con este potente generador! Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme. Disfruta.
